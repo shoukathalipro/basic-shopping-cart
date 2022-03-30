@@ -1,0 +1,14 @@
+.main_Header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: darkblue;
+  padding: 2vh 0;
+}
+
+.main_Header_Items {
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 500;
+}
